@@ -1,0 +1,69 @@
+.budget-container {
+    margin: 0px auto;
+    text-align: center;
+    height: 70vh;
+    background: white;
+}
+
+.budget-navbar {
+    width: 100%;
+    height: 5px;
+}
+
+.budget-title {
+    font-size: 60px;
+    margin: 50px auto;
+}
+
+.budget-signal {
+    font-size: 50px;
+}
+
+.budget-num {
+    font-size: 40px;
+    margin: 4px 2px;
+}
+
+#budget-btn-minus {
+    margin: 15px 2px;
+    background-color: #43a047;
+    border: none;
+    color: white;
+    font-size: 24px;
+    border-radius: 4px;
+    width: 25%;
+    float: left;
+} 
+
+#budget-btn-plus {
+    margin: 15px 2px;
+    background-color: #43a047;
+    border: none;
+    color: white;
+    font-size: 24px;
+    border-radius: 4px;
+    width: 25%;
+    float: right;
+} 
+
+.budget-btn:hover {
+    background-color: aquamarine;
+}
+
+.budget-done {
+    padding: 14px 40px;
+    margin: 35px 2px;
+    background-color: #43a047;
+    border: none;
+    color: white;
+    font-size: 24px;
+    border-radius: 4px;
+}
+
+.budget-done:hover {
+    background-color: aquamarine;
+}
+
+#budget-message{
+    color: #43a047
+}
